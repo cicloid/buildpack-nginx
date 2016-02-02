@@ -17,4 +17,5 @@ Override default configuration by adding `nginx.conf.erb` in the root directory
 ## Credits and License
 `buildpack-nginx` is licensed under the CC0 1.0 Universal license and has been informed by many similar projects on the web
 
-[Florian Heinemann](http://twitter.com/TheSumOfAll/)
+[Gustavo Barron](https://twitter.com/cicloid/)
+[Florian Heinemann](https://twitter.com/TheSumOfAll/)
